@@ -1,4 +1,4 @@
-# # Network Intrusion Detection System (IDS)
+ # Network Intrusion Detection System (IDS)
 
 ## Overview
 This project implements a Network Intrusion Detection System (IDS) using various machine learning algorithms. It analyzes network traffic data and classifies it as normal or malicious. The system supports multiple classifiers and visualizes traffic patterns for better insights.
